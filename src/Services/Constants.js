@@ -1,11 +1,1 @@
-import React from 'react'
-
-const Constants = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
-
-export default Constants
+export const ADD_TO_CART = "ADD_TO_CART"
